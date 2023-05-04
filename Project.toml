@@ -1,0 +1,22 @@
+name = "GTKmm3_jll"
+uuid = "6c5188dc-7670-5467-b522-e8b8d9d5f1a3"
+version = "3.24.7+0"
+
+[deps]
+ATKmm_jll = "ae83496e-abbd-5b27-8e4c-ced0103e1cfe"
+JLLWrappers = "692b3bcd-3c85-4b1f-b108-f13ce0eb3210"
+Cairomm_jll = "af74c99f-f0eb-54aa-aecc-a10e8fc65c17"
+Pangomm_jll = "9c53b654-4175-57d2-a160-8980ed551c15"
+GTK3_jll = "77ec8976-b24b-556a-a1bf-49a033a670a6"
+Libdl = "8f399da3-3557-5675-b5ff-fb832c97cbdb"
+Glibmm_jll = "5d85a9da-21f7-5855-afec-cdc5039c46e8"
+Artifacts = "56f22d72-fd6d-98f1-02f0-08ddc0907c33"
+
+[compat]
+JLLWrappers = "1.2.0"
+julia = "1.6"
+Cairomm_jll = "~1.14.4"
+ATKmm_jll = "~2.28.3"
+Pangomm_jll = "~2.46.3"
+GTK3_jll = "^3.24.31"
+Glibmm_jll = "~2.66.6"
