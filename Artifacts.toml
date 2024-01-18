@@ -1,274 +1,274 @@
 [[GTKmm3]]
 arch = "aarch64"
 cxxstring_abi = "cxx03"
-git-tree-sha1 = "8d5fa9503fabb2440718b9cd834e8ec27475b88b"
+git-tree-sha1 = "d7ddb184527d194c6ad212f7dfe799e0aae47c77"
 os = "macos"
 
     [[GTKmm3.download]]
-    sha256 = "0214c89b864e57fec8e4df195a1aaa56f583981ca224939f51a9273545bef2c6"
-    url = "https://github.com/JuliaBinaryWrappers/GTKmm3_jll.jl/releases/download/GTKmm3-v3.24.7+0/GTKmm3.v3.24.7.aarch64-apple-darwin-cxx03.tar.gz"
+    sha256 = "fbc136d4db6f1ba6ebd6482e58f2a076ea759074e75354a4006070ab5d171f90"
+    url = "https://github.com/JuliaBinaryWrappers/GTKmm3_jll.jl/releases/download/GTKmm3-v3.24.7+1/GTKmm3.v3.24.7.aarch64-apple-darwin-cxx03.tar.gz"
 [[GTKmm3]]
 arch = "aarch64"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "e187db5d562a625e6d06f1897084c652a45a6c05"
+git-tree-sha1 = "8d029659288fe499c020d90ba6fd2454a220bb3f"
 os = "macos"
 
     [[GTKmm3.download]]
-    sha256 = "94c1f152c9b822b3ef599ba5ed49851d0fa21e3659f556baad536d85cbe90058"
-    url = "https://github.com/JuliaBinaryWrappers/GTKmm3_jll.jl/releases/download/GTKmm3-v3.24.7+0/GTKmm3.v3.24.7.aarch64-apple-darwin-cxx11.tar.gz"
+    sha256 = "6bc65329df3cbd1baee48f986ddaa7487dea00c250494e7c9e4ab9a347efcf11"
+    url = "https://github.com/JuliaBinaryWrappers/GTKmm3_jll.jl/releases/download/GTKmm3-v3.24.7+1/GTKmm3.v3.24.7.aarch64-apple-darwin-cxx11.tar.gz"
 [[GTKmm3]]
 arch = "aarch64"
 cxxstring_abi = "cxx03"
-git-tree-sha1 = "806589b7769c3d06fd692a96e83f263c26bec3f1"
+git-tree-sha1 = "ae25012fe42ff0ca523d6bec399229f7a8142808"
 libc = "glibc"
 os = "linux"
 
     [[GTKmm3.download]]
-    sha256 = "5612861b143f1cb0460beaa3f529d6b8f17df252c847bac9366648fbebe93bfe"
-    url = "https://github.com/JuliaBinaryWrappers/GTKmm3_jll.jl/releases/download/GTKmm3-v3.24.7+0/GTKmm3.v3.24.7.aarch64-linux-gnu-cxx03.tar.gz"
+    sha256 = "16efeded3185d5d3748ba20383228336afb7b47e82226546d908cca834e7f3a0"
+    url = "https://github.com/JuliaBinaryWrappers/GTKmm3_jll.jl/releases/download/GTKmm3-v3.24.7+1/GTKmm3.v3.24.7.aarch64-linux-gnu-cxx03.tar.gz"
 [[GTKmm3]]
 arch = "aarch64"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "e1260e6c1eeac0aea1c1372be6ea7fad03b576df"
+git-tree-sha1 = "cb5f7c50ee61c05aa4db3d6967e8183dc98bb7f4"
 libc = "glibc"
 os = "linux"
 
     [[GTKmm3.download]]
-    sha256 = "91725b698af10664f7cfe00083337f38f2e84e2c262757859b019101c5289520"
-    url = "https://github.com/JuliaBinaryWrappers/GTKmm3_jll.jl/releases/download/GTKmm3-v3.24.7+0/GTKmm3.v3.24.7.aarch64-linux-gnu-cxx11.tar.gz"
+    sha256 = "8ebb2298ead345dd88abeae4d5700fe084832a743017f389f91121b874d0b651"
+    url = "https://github.com/JuliaBinaryWrappers/GTKmm3_jll.jl/releases/download/GTKmm3-v3.24.7+1/GTKmm3.v3.24.7.aarch64-linux-gnu-cxx11.tar.gz"
 [[GTKmm3]]
 arch = "aarch64"
 cxxstring_abi = "cxx03"
-git-tree-sha1 = "56759eac4ba515dacda57667c03124db306d160a"
+git-tree-sha1 = "1f0787f311547d3b8b59707f43e52f6ed4028c30"
 libc = "musl"
 os = "linux"
 
     [[GTKmm3.download]]
-    sha256 = "cbb3cac48e6ebe19c88f16fa63f7f24c17bcccae6c0ec777829472914aa154c3"
-    url = "https://github.com/JuliaBinaryWrappers/GTKmm3_jll.jl/releases/download/GTKmm3-v3.24.7+0/GTKmm3.v3.24.7.aarch64-linux-musl-cxx03.tar.gz"
+    sha256 = "712ac55416d19c0a74979e1d21c0d21c347725ce223f20d3cea950fc8d9628c0"
+    url = "https://github.com/JuliaBinaryWrappers/GTKmm3_jll.jl/releases/download/GTKmm3-v3.24.7+1/GTKmm3.v3.24.7.aarch64-linux-musl-cxx03.tar.gz"
 [[GTKmm3]]
 arch = "aarch64"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "d90835b61b484427270d341dc7c6d1fb6fa0576f"
+git-tree-sha1 = "b467be1c22dd477c02830f3b130807272ad91a5e"
 libc = "musl"
 os = "linux"
 
     [[GTKmm3.download]]
-    sha256 = "8eb6d252e6e067f00de33743e55ee0e27580b39fa53a73f8541e7a7a425845e6"
-    url = "https://github.com/JuliaBinaryWrappers/GTKmm3_jll.jl/releases/download/GTKmm3-v3.24.7+0/GTKmm3.v3.24.7.aarch64-linux-musl-cxx11.tar.gz"
+    sha256 = "1a30227ca0a6c527301c309ad70a8f6d712064cf4a21788d3efc978f75babe73"
+    url = "https://github.com/JuliaBinaryWrappers/GTKmm3_jll.jl/releases/download/GTKmm3-v3.24.7+1/GTKmm3.v3.24.7.aarch64-linux-musl-cxx11.tar.gz"
 [[GTKmm3]]
 arch = "armv7l"
 call_abi = "eabihf"
 cxxstring_abi = "cxx03"
-git-tree-sha1 = "d9886855b26dfcec8e0905162cc638232ddd2d4f"
+git-tree-sha1 = "977fe6082f410bf0d7de6ece6c088708df718e23"
 libc = "glibc"
 os = "linux"
 
     [[GTKmm3.download]]
-    sha256 = "68edf7f6542608e44770e93d628a1390888ae6060bd4ee8b0c997d1337641b47"
-    url = "https://github.com/JuliaBinaryWrappers/GTKmm3_jll.jl/releases/download/GTKmm3-v3.24.7+0/GTKmm3.v3.24.7.armv7l-linux-gnueabihf-cxx03.tar.gz"
+    sha256 = "1f239a3c60468f2519422cd604baf4b14fa64a850a495f5461b2038adb90e9dd"
+    url = "https://github.com/JuliaBinaryWrappers/GTKmm3_jll.jl/releases/download/GTKmm3-v3.24.7+1/GTKmm3.v3.24.7.armv7l-linux-gnueabihf-cxx03.tar.gz"
 [[GTKmm3]]
 arch = "armv7l"
 call_abi = "eabihf"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "5a3aed14484444d9459257e8270a1e435c9a227d"
+git-tree-sha1 = "65a51e6701841f73fd238b4615746d4b31a9d7fa"
 libc = "glibc"
 os = "linux"
 
     [[GTKmm3.download]]
-    sha256 = "6d23899a497bec2a85f1ddd1e7aa65abad200597aca0654b471eb77a13fcb81e"
-    url = "https://github.com/JuliaBinaryWrappers/GTKmm3_jll.jl/releases/download/GTKmm3-v3.24.7+0/GTKmm3.v3.24.7.armv7l-linux-gnueabihf-cxx11.tar.gz"
+    sha256 = "e65daf832fcbf2ed86271fb2266801e0ff6d0d3cc3c5e26d21f8640244bf9958"
+    url = "https://github.com/JuliaBinaryWrappers/GTKmm3_jll.jl/releases/download/GTKmm3-v3.24.7+1/GTKmm3.v3.24.7.armv7l-linux-gnueabihf-cxx11.tar.gz"
 [[GTKmm3]]
 arch = "armv7l"
 call_abi = "eabihf"
 cxxstring_abi = "cxx03"
-git-tree-sha1 = "054426a8676508ecee082bfffdbdb73886555ed4"
+git-tree-sha1 = "7193fc57b6a75e88dba34ca125581a1b3d575b8d"
 libc = "musl"
 os = "linux"
 
     [[GTKmm3.download]]
-    sha256 = "c7a3954c1797585194dd5461697ded0b766f1c06bafdb877a985c1ccfc4214af"
-    url = "https://github.com/JuliaBinaryWrappers/GTKmm3_jll.jl/releases/download/GTKmm3-v3.24.7+0/GTKmm3.v3.24.7.armv7l-linux-musleabihf-cxx03.tar.gz"
+    sha256 = "db516e1f4dbf110338c310951d4ea1cb140aeecacd682785d540fc97680b3e41"
+    url = "https://github.com/JuliaBinaryWrappers/GTKmm3_jll.jl/releases/download/GTKmm3-v3.24.7+1/GTKmm3.v3.24.7.armv7l-linux-musleabihf-cxx03.tar.gz"
 [[GTKmm3]]
 arch = "armv7l"
 call_abi = "eabihf"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "7132e3883a003d442cfb7b3e08cec73f14d2c21c"
+git-tree-sha1 = "a116386bbfae4cb1252b4aab8cd066c16d31a71b"
 libc = "musl"
 os = "linux"
 
     [[GTKmm3.download]]
-    sha256 = "304267c43875a92d4484867198a3e7a60022fa609530b3384795873c2ac5e749"
-    url = "https://github.com/JuliaBinaryWrappers/GTKmm3_jll.jl/releases/download/GTKmm3-v3.24.7+0/GTKmm3.v3.24.7.armv7l-linux-musleabihf-cxx11.tar.gz"
+    sha256 = "3b9a5a1ae8ecf83a9e08a799108fccb325445414db1b89ca008c820a22ae944c"
+    url = "https://github.com/JuliaBinaryWrappers/GTKmm3_jll.jl/releases/download/GTKmm3-v3.24.7+1/GTKmm3.v3.24.7.armv7l-linux-musleabihf-cxx11.tar.gz"
 [[GTKmm3]]
 arch = "i686"
 cxxstring_abi = "cxx03"
-git-tree-sha1 = "6edf5b0b4c0c00cccb175a7d467510652cf889cc"
+git-tree-sha1 = "2341a445df6fd46fdb69a94cd9674a17901ad19f"
 libc = "glibc"
 os = "linux"
 
     [[GTKmm3.download]]
-    sha256 = "974e7486998d1ea0da830cb037d1c042ac801a1bcaef8d65fa809347dcc5ab91"
-    url = "https://github.com/JuliaBinaryWrappers/GTKmm3_jll.jl/releases/download/GTKmm3-v3.24.7+0/GTKmm3.v3.24.7.i686-linux-gnu-cxx03.tar.gz"
+    sha256 = "d381e91a0b85eed454632617379e80095a8710a862fde91eb106e7a5dadddab8"
+    url = "https://github.com/JuliaBinaryWrappers/GTKmm3_jll.jl/releases/download/GTKmm3-v3.24.7+1/GTKmm3.v3.24.7.i686-linux-gnu-cxx03.tar.gz"
 [[GTKmm3]]
 arch = "i686"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "a7596f0e5fbd3177d8bc29bb74917c3bb60e6416"
+git-tree-sha1 = "fc7ae579fb8e04daf7c053fc56de83808b97311a"
 libc = "glibc"
 os = "linux"
 
     [[GTKmm3.download]]
-    sha256 = "6583f182c7d58950df03d10a6aa1608f6e7bb0d86a3088f08c39c298cbcc39f8"
-    url = "https://github.com/JuliaBinaryWrappers/GTKmm3_jll.jl/releases/download/GTKmm3-v3.24.7+0/GTKmm3.v3.24.7.i686-linux-gnu-cxx11.tar.gz"
+    sha256 = "f7c3718cb9f19330257f442ba26fc197c35106b64fb95bf9f2bcf30a8862d41a"
+    url = "https://github.com/JuliaBinaryWrappers/GTKmm3_jll.jl/releases/download/GTKmm3-v3.24.7+1/GTKmm3.v3.24.7.i686-linux-gnu-cxx11.tar.gz"
 [[GTKmm3]]
 arch = "i686"
 cxxstring_abi = "cxx03"
-git-tree-sha1 = "ea4964dd6d644a6d7d46caf3a9e9d7c21e826bd6"
+git-tree-sha1 = "7c3a600151c66bab5ee5b2364c38e027b8fddca9"
 libc = "musl"
 os = "linux"
 
     [[GTKmm3.download]]
-    sha256 = "e4fae4d738c0ed90f5514e3d51cf01b739acc3940e85299003a776a363baace8"
-    url = "https://github.com/JuliaBinaryWrappers/GTKmm3_jll.jl/releases/download/GTKmm3-v3.24.7+0/GTKmm3.v3.24.7.i686-linux-musl-cxx03.tar.gz"
+    sha256 = "24b5e87013376fde992682ad80fc25ff0911eece76abae897f44876c648e9cd9"
+    url = "https://github.com/JuliaBinaryWrappers/GTKmm3_jll.jl/releases/download/GTKmm3-v3.24.7+1/GTKmm3.v3.24.7.i686-linux-musl-cxx03.tar.gz"
 [[GTKmm3]]
 arch = "i686"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "a7fc0dc38c44e7004c9c24b1e164fdbf08efd748"
+git-tree-sha1 = "3ce1076f4ad4f64c0fc99bf1e44dc8f8b439ceb2"
 libc = "musl"
 os = "linux"
 
     [[GTKmm3.download]]
-    sha256 = "7669932118c6c22599e2cfa27747c80c60172d252772e23cc4a17060709ecfb5"
-    url = "https://github.com/JuliaBinaryWrappers/GTKmm3_jll.jl/releases/download/GTKmm3-v3.24.7+0/GTKmm3.v3.24.7.i686-linux-musl-cxx11.tar.gz"
+    sha256 = "f1c9414a0fb1fac203067a5ccb1071cfedb81eb09485d48fa7a7012c7e25b1e7"
+    url = "https://github.com/JuliaBinaryWrappers/GTKmm3_jll.jl/releases/download/GTKmm3-v3.24.7+1/GTKmm3.v3.24.7.i686-linux-musl-cxx11.tar.gz"
 [[GTKmm3]]
 arch = "i686"
 cxxstring_abi = "cxx03"
-git-tree-sha1 = "065d521f21c1b08afab5f243252849f68e821688"
+git-tree-sha1 = "c7e23ff97dd6f973963d133a2e5648dda266c40a"
 os = "windows"
 
     [[GTKmm3.download]]
-    sha256 = "5221b653f5db89f0eb62b8b715a758c095bfe9b25b503f00575182a2bafb3a59"
-    url = "https://github.com/JuliaBinaryWrappers/GTKmm3_jll.jl/releases/download/GTKmm3-v3.24.7+0/GTKmm3.v3.24.7.i686-w64-mingw32-cxx03.tar.gz"
+    sha256 = "3fc7abbeeb61c4c6feff21083aad97f36d32d348b16845a2fd9e4d200a9dbc4f"
+    url = "https://github.com/JuliaBinaryWrappers/GTKmm3_jll.jl/releases/download/GTKmm3-v3.24.7+1/GTKmm3.v3.24.7.i686-w64-mingw32-cxx03.tar.gz"
 [[GTKmm3]]
 arch = "i686"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "2d6d296cb0b056f688801b3bc5b544dd0ec7526d"
+git-tree-sha1 = "1876363077e5085fd5080c9500805e4a8f33b542"
 os = "windows"
 
     [[GTKmm3.download]]
-    sha256 = "cc635d31de91d6f1680ae680e0da3bd7c9779bd5474e7663274af81876d52983"
-    url = "https://github.com/JuliaBinaryWrappers/GTKmm3_jll.jl/releases/download/GTKmm3-v3.24.7+0/GTKmm3.v3.24.7.i686-w64-mingw32-cxx11.tar.gz"
+    sha256 = "a185e1d369123d56e75cc48b1d7095d3e3b1eccb489e8c2805d09aaee98c4ea7"
+    url = "https://github.com/JuliaBinaryWrappers/GTKmm3_jll.jl/releases/download/GTKmm3-v3.24.7+1/GTKmm3.v3.24.7.i686-w64-mingw32-cxx11.tar.gz"
 [[GTKmm3]]
 arch = "powerpc64le"
 cxxstring_abi = "cxx03"
-git-tree-sha1 = "69fa3ee8ce51d206b1cded6384727b28e2cacc2d"
+git-tree-sha1 = "9c5f002c94b2134b4067a02c1c1bb9fcf68fb0ec"
 libc = "glibc"
 os = "linux"
 
     [[GTKmm3.download]]
-    sha256 = "e586f8f529479fd90ac42c21abd058534fff799a0b2e1beadae90af9a439560c"
-    url = "https://github.com/JuliaBinaryWrappers/GTKmm3_jll.jl/releases/download/GTKmm3-v3.24.7+0/GTKmm3.v3.24.7.powerpc64le-linux-gnu-cxx03.tar.gz"
+    sha256 = "b1aaa84ddc719e3aa7d8d273bfa9a89b916ecd75320ced4bcbf2a42a095493c6"
+    url = "https://github.com/JuliaBinaryWrappers/GTKmm3_jll.jl/releases/download/GTKmm3-v3.24.7+1/GTKmm3.v3.24.7.powerpc64le-linux-gnu-cxx03.tar.gz"
 [[GTKmm3]]
 arch = "powerpc64le"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "f5b053535f0eb88966268474b6d552fa148ede5a"
+git-tree-sha1 = "3f7a777ff9ba346dc3375fdd7e22c263d756a88b"
 libc = "glibc"
 os = "linux"
 
     [[GTKmm3.download]]
-    sha256 = "e9ac855b0f367509d5c6fdf6956d8b4adbd5173af44cddbaa9f3d3a29a69b185"
-    url = "https://github.com/JuliaBinaryWrappers/GTKmm3_jll.jl/releases/download/GTKmm3-v3.24.7+0/GTKmm3.v3.24.7.powerpc64le-linux-gnu-cxx11.tar.gz"
+    sha256 = "6fb8541ab28c6a558c65482283baec8699db679f0457bd5af813d8f9b710da39"
+    url = "https://github.com/JuliaBinaryWrappers/GTKmm3_jll.jl/releases/download/GTKmm3-v3.24.7+1/GTKmm3.v3.24.7.powerpc64le-linux-gnu-cxx11.tar.gz"
 [[GTKmm3]]
 arch = "x86_64"
 cxxstring_abi = "cxx03"
-git-tree-sha1 = "ac79dbb55559f864e1c3b1b350abc846a3c00848"
+git-tree-sha1 = "3120da10b3ba3716310e530268f1cb9babe73966"
 os = "macos"
 
     [[GTKmm3.download]]
-    sha256 = "9647e2bb664e0e0e475c89108d771b9f760c418e44f9dd243e810b5b60060344"
-    url = "https://github.com/JuliaBinaryWrappers/GTKmm3_jll.jl/releases/download/GTKmm3-v3.24.7+0/GTKmm3.v3.24.7.x86_64-apple-darwin-cxx03.tar.gz"
+    sha256 = "fe5dc065ae676af36a7e829f2234a71077532dc088792b002271372dd422ffc9"
+    url = "https://github.com/JuliaBinaryWrappers/GTKmm3_jll.jl/releases/download/GTKmm3-v3.24.7+1/GTKmm3.v3.24.7.x86_64-apple-darwin-cxx03.tar.gz"
 [[GTKmm3]]
 arch = "x86_64"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "2560e65aa08d87aef81dfdb70019abea87d49111"
+git-tree-sha1 = "f380d6438b2434726734709b4c642dd3def6f896"
 os = "macos"
 
     [[GTKmm3.download]]
-    sha256 = "684a4dac349b162032dd6d5e7d8f94d088eb6c8551fc954712a0974058dbf0a9"
-    url = "https://github.com/JuliaBinaryWrappers/GTKmm3_jll.jl/releases/download/GTKmm3-v3.24.7+0/GTKmm3.v3.24.7.x86_64-apple-darwin-cxx11.tar.gz"
+    sha256 = "6e80a7d0be637e2ba8f303b5443b78defdb2781371e7f54dc9dece1791c07909"
+    url = "https://github.com/JuliaBinaryWrappers/GTKmm3_jll.jl/releases/download/GTKmm3-v3.24.7+1/GTKmm3.v3.24.7.x86_64-apple-darwin-cxx11.tar.gz"
 [[GTKmm3]]
 arch = "x86_64"
 cxxstring_abi = "cxx03"
-git-tree-sha1 = "ce03d284b0d436a822fb686ca434cff986fe20d5"
+git-tree-sha1 = "99f1ec4bb1f40dc91edd83d6b243e8f1a87e0520"
 libc = "glibc"
 os = "linux"
 
     [[GTKmm3.download]]
-    sha256 = "20054633ca294a27f751d3764a516e6231b7b6a6c93f56c2d292f7ee1733a7f7"
-    url = "https://github.com/JuliaBinaryWrappers/GTKmm3_jll.jl/releases/download/GTKmm3-v3.24.7+0/GTKmm3.v3.24.7.x86_64-linux-gnu-cxx03.tar.gz"
+    sha256 = "1dd7f8e07eae8c87d57476a23299b960ec02e4276a813c195338ee398d63251d"
+    url = "https://github.com/JuliaBinaryWrappers/GTKmm3_jll.jl/releases/download/GTKmm3-v3.24.7+1/GTKmm3.v3.24.7.x86_64-linux-gnu-cxx03.tar.gz"
 [[GTKmm3]]
 arch = "x86_64"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "0319e23cee335c1b7065bbd114d79cacbd26b975"
+git-tree-sha1 = "a764693a2ada8434d8227866f524e4e1f1170aa1"
 libc = "glibc"
 os = "linux"
 
     [[GTKmm3.download]]
-    sha256 = "67e3997695f44646fa311c63c2e09425aedbcc594d1bf845daab9d8bf360c0d3"
-    url = "https://github.com/JuliaBinaryWrappers/GTKmm3_jll.jl/releases/download/GTKmm3-v3.24.7+0/GTKmm3.v3.24.7.x86_64-linux-gnu-cxx11.tar.gz"
+    sha256 = "8f09f5f365fbe3bcab3624d47c1fc10d428cd60e78b42fdc1b7a7e507272c0a9"
+    url = "https://github.com/JuliaBinaryWrappers/GTKmm3_jll.jl/releases/download/GTKmm3-v3.24.7+1/GTKmm3.v3.24.7.x86_64-linux-gnu-cxx11.tar.gz"
 [[GTKmm3]]
 arch = "x86_64"
 cxxstring_abi = "cxx03"
-git-tree-sha1 = "ab0748f40c47770c94ba138d5bffc9c0ee63ca8a"
+git-tree-sha1 = "b688773f9698254a4d210632576455a04429d740"
 libc = "musl"
 os = "linux"
 
     [[GTKmm3.download]]
-    sha256 = "c7723b52c71ed6a2849612e38a146c34c4f095b84ed4003f8ac9f690d5ca3382"
-    url = "https://github.com/JuliaBinaryWrappers/GTKmm3_jll.jl/releases/download/GTKmm3-v3.24.7+0/GTKmm3.v3.24.7.x86_64-linux-musl-cxx03.tar.gz"
+    sha256 = "5128efdfbab9bb42ddacda0d9c934c495df024b5c516cf2d10213b6503d28be8"
+    url = "https://github.com/JuliaBinaryWrappers/GTKmm3_jll.jl/releases/download/GTKmm3-v3.24.7+1/GTKmm3.v3.24.7.x86_64-linux-musl-cxx03.tar.gz"
 [[GTKmm3]]
 arch = "x86_64"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "027dcddf99d608f63e3b1e9b43b3e3ecc382494a"
+git-tree-sha1 = "06f172c0038f76336e7f16312a10995ce779e56b"
 libc = "musl"
 os = "linux"
 
     [[GTKmm3.download]]
-    sha256 = "9dbe0460eb14f91fed70313b753c5f83cff8c1537eccb91077eaf647642f16b1"
-    url = "https://github.com/JuliaBinaryWrappers/GTKmm3_jll.jl/releases/download/GTKmm3-v3.24.7+0/GTKmm3.v3.24.7.x86_64-linux-musl-cxx11.tar.gz"
+    sha256 = "58701034342c256a77f1218ddb6d33a421adfbea39c9fe046015947236fa6c41"
+    url = "https://github.com/JuliaBinaryWrappers/GTKmm3_jll.jl/releases/download/GTKmm3-v3.24.7+1/GTKmm3.v3.24.7.x86_64-linux-musl-cxx11.tar.gz"
 [[GTKmm3]]
 arch = "x86_64"
 cxxstring_abi = "cxx03"
-git-tree-sha1 = "531e8966288b78878228202172e7c0b4d16a4935"
+git-tree-sha1 = "3ed1873e106ff2a44611ce11a23db53dd4bef3da"
 os = "freebsd"
 
     [[GTKmm3.download]]
-    sha256 = "82c5da35ab052de136218e95551c672bda354d4001c4d8dd4e8c332bfb7c7ade"
-    url = "https://github.com/JuliaBinaryWrappers/GTKmm3_jll.jl/releases/download/GTKmm3-v3.24.7+0/GTKmm3.v3.24.7.x86_64-unknown-freebsd-cxx03.tar.gz"
+    sha256 = "890fe45ef255c8fbe498d6197eabc3810bafbf9b310f2dcd72b7911fc29f1673"
+    url = "https://github.com/JuliaBinaryWrappers/GTKmm3_jll.jl/releases/download/GTKmm3-v3.24.7+1/GTKmm3.v3.24.7.x86_64-unknown-freebsd-cxx03.tar.gz"
 [[GTKmm3]]
 arch = "x86_64"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "70c7dea0cb4f121097d394e045ea5ff05f2209c8"
+git-tree-sha1 = "b2af1b655c85abc795d9b8012169844e482dd71c"
 os = "freebsd"
 
     [[GTKmm3.download]]
-    sha256 = "8d705d93334a9661c2b67d972a520d46d7c74358d0020c9c39c67000780e1e6d"
-    url = "https://github.com/JuliaBinaryWrappers/GTKmm3_jll.jl/releases/download/GTKmm3-v3.24.7+0/GTKmm3.v3.24.7.x86_64-unknown-freebsd-cxx11.tar.gz"
+    sha256 = "1c8d2032f797c6cfc5bd1b4c61540f06357449afb9eb7e0152f0d7f427e4af6b"
+    url = "https://github.com/JuliaBinaryWrappers/GTKmm3_jll.jl/releases/download/GTKmm3-v3.24.7+1/GTKmm3.v3.24.7.x86_64-unknown-freebsd-cxx11.tar.gz"
 [[GTKmm3]]
 arch = "x86_64"
 cxxstring_abi = "cxx03"
-git-tree-sha1 = "d59476cee38e4dabdd449e982c773408f82795c0"
+git-tree-sha1 = "d8945c4fce0688c7ab05d730dc224a8d442f7734"
 os = "windows"
 
     [[GTKmm3.download]]
-    sha256 = "722ea3bda51da40c225c13e445f1a249d01eeaa3b0a4b33216274f9bca0f2cf7"
-    url = "https://github.com/JuliaBinaryWrappers/GTKmm3_jll.jl/releases/download/GTKmm3-v3.24.7+0/GTKmm3.v3.24.7.x86_64-w64-mingw32-cxx03.tar.gz"
+    sha256 = "f2dac790accca3ca30ca44986642565e753ea628166c1787f2816525717904c2"
+    url = "https://github.com/JuliaBinaryWrappers/GTKmm3_jll.jl/releases/download/GTKmm3-v3.24.7+1/GTKmm3.v3.24.7.x86_64-w64-mingw32-cxx03.tar.gz"
 [[GTKmm3]]
 arch = "x86_64"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "26d79b531af621da1bfe795ab99ed97d0b9fc3ee"
+git-tree-sha1 = "652bd5f85714adfd955b8424fa3ad56205709154"
 os = "windows"
 
     [[GTKmm3.download]]
-    sha256 = "2f500190d33fbf79157dd0dcbf08addc267590d5729750f679b68e256e2f6975"
-    url = "https://github.com/JuliaBinaryWrappers/GTKmm3_jll.jl/releases/download/GTKmm3-v3.24.7+0/GTKmm3.v3.24.7.x86_64-w64-mingw32-cxx11.tar.gz"
+    sha256 = "185481af7f95a5f8655ad68cb7e27285911a8a2af52958790c8c8d8df82c019e"
+    url = "https://github.com/JuliaBinaryWrappers/GTKmm3_jll.jl/releases/download/GTKmm3-v3.24.7+1/GTKmm3.v3.24.7.x86_64-w64-mingw32-cxx11.tar.gz"

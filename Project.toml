@@ -1,6 +1,6 @@
 name = "GTKmm3_jll"
 uuid = "6c5188dc-7670-5467-b522-e8b8d9d5f1a3"
-version = "3.24.7+0"
+version = "3.24.7+1"
 
 [deps]
 ATKmm_jll = "ae83496e-abbd-5b27-8e4c-ced0103e1cfe"
@@ -19,4 +19,6 @@ Cairomm_jll = "~1.14.4"
 ATKmm_jll = "~2.28.3"
 Pangomm_jll = "~2.46.3"
 GTK3_jll = "^3.24.31"
+Libdl = "1"
 Glibmm_jll = "~2.66.6"
+Artifacts = "1"
